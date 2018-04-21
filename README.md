@@ -6,4 +6,6 @@ MARKET Protocol has been created to provide a secure, flexible, open source foun
 
 Listing of all community meetings, notes, and events.
 
+You can find the [notes from past meetings here](https://github.com/42piratas/community/tree/past-meetings/meeting-notes). 
+
 Join our [Discord Community](https://www.marketprotocol.io/discord) to interact with members of our dev staff and other contributors.
