@@ -9,7 +9,7 @@
   * Contribution resources - discussing using slate (see origin protocol for eg)
 * Major commits this week
   * @nitinrgupta - new static site
-  * @perfectmak - more testing!!
+  * @perfectmak - added more testing!!
 * Next major Milestones
 * Contributors - how can we help you? Issues? suggestions?
 * What we need help with
