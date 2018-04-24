@@ -1,18 +1,7 @@
 # Community Meeting cw #17
-## April 26 2018
+## April 19 2018, [8:00 AM MDT](https://www.worldtimebuddy.com/?qm=1&lid=7&h=7&date=2018-4-26&sln=8-9)
+### [Agenda](https://github.com/MARKETProtocol/community/issues/2)
+### [Recording]()
+### Attendees
+## To-do
 ## Notes
-* Introductions
-  * Anyone new on the call
-* Update on status
-  * dApp release
-  * Backend environment (for static site and dApp beta deployment)
-  * Contribution resources - discussing using slate (see origin protocol for eg)
-* Major commits this week
-  * @nitinrgupta - new static site
-  * @perfectmak - added more testing!!
-* Next major Milestones
-* Contributors - how can we help you? Issues? suggestions?
-* What we need help with
-  * Static site
-  * dApp deployment
- 
