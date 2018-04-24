@@ -15,7 +15,7 @@ Everyone Is Welcome! Check details below.
 ** When:** Every Thursday, 8am  
 ** Time zone:** [Denver, CO](https://www.timeanddate.com/worldclock/usa/denver)  
 ** Link:** [https://zoom.us/j/874817645](https://zoom.us/j/874817645)  
-** Length:** 60 minutes.  
+** Length:** 30 minutes.  
 
 #### Agenda
 
