@@ -1,4 +1,4 @@
-# Community Meeting cw #16
+# Engineering Weekly cw #16
 ## April 19 2018
 ## Notes
 * Introductions
