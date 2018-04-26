@@ -1,4 +1,4 @@
-# Community Meeting cw #NN
+# Engineering Weekly cw #NN
 ## Month DD YYYY
 ### [Agenda]()
 ### [Recording]()
