@@ -6,7 +6,7 @@
 
 In the *Engineering Weekly* meetings, the core engineering team, contributors, and casual followers check in to discuss the progress of the project, to call attention to particular items, to make announcements, or to seek discussion of a topic.
 
-**Everyone Is welcome! Check details below.**
+**Everyone Is welcome!**
 
 **When:** Every Thursday, 8am  
 **Time zone:** [Denver, CO](https://www.timeanddate.com/worldclock/usa/denver)  
