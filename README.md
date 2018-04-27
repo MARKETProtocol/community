@@ -12,9 +12,15 @@ In this repository, you will find listing of all meetings, notes, and events.
 
 In the *Engineering Weekly* meetings, the core engineering team, contributors, and casual followers check in to discuss the progress of the project, to call attention to particular items, to make announcements, or to seek discussion of a topic.
 
-**Everyone is welcome! [Check details here.](https://github.com/42piratas/community/blob/master/engineering-weekly.md)**    
+**Everyone is welcome! [Check details here.](https://github.com/MARKETProtocol/community/blob/master/engineering-weekly.md)**    
    
 You can also find the [notes from previous meetings here](https://github.com/MARKETProtocol/community/tree/master/meeting-notes).
+
+## Project Board
+
+Our [project board](https://github.com/orgs/MARKETProtocol/projects/1) is used to organize development tasks.
+
+The document [project management](https://github.com/MARKETProtocol/community/blob/master/project-management.md) contains helpful information about using and understanding how the project board is organized.
 
 ## meta
 [Here you can find](https://github.com/MARKETProtocol/meta) our cross-project documentation, standards, build orchestration, scripts and other resources. 
@@ -22,3 +28,4 @@ You can also find the [notes from previous meetings here](https://github.com/MAR
 ## Contribute
 
 Join our [Discord Community](https://www.marketprotocol.io/discord) to interact with members of our dev staff and other contributors.
+
