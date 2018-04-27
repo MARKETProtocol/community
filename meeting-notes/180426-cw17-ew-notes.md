@@ -5,9 +5,9 @@
 ### Attendees
 @pelsasser @pchuck @perfectmak @eswarasai @42piratas Collins Brown and Robert Jordan.
 ## To-do
-- Move the info from [docs.originprotocol.com/#contributing](http://docs.originprotocol.com/#contributing) to [docs.marketprotocol.io](https://docs.marketprotocol.io/). Responsible: **????????**
+- Move the info from [docs.originprotocol.com/#contributing](http://docs.originprotocol.com/#contributing) to [docs.marketprotocol.io](https://docs.marketprotocol.io/). Responsible: @pelsasser
 - Create a list of examples of calls/functions for the API layer. Responsible: @pelsasser
-- Try to identify process improvement opportunities with Perfect, Esware, and new collaborators. Responsible: @42piratas
+- Try to identify process improvement opportunities with Perfect, Eswara, and new collaborators. Responsible: @42piratas
 
 ## Notes
 - Newcomers: Robert Jordan and @42piratas.
