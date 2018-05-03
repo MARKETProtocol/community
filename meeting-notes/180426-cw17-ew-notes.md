@@ -17,7 +17,7 @@
   - Added link to transaction upon successful test query submit.
   - Added recommended GasPrice instead of hardcoding the value for transactions.
   - Deployed the dev version of the app to AWS and also setup the auto-deployment on Travis CI.
-- Unfo: static website progress as shared by Phil:
+- Info: static website progress as shared by Phil:
   - There are a few issues to be resolved, but they are being tackled at the moment.
   - The goal is to have the website live within one or two days (i.e. by April 30th).
 - Discussion brought by Phil: should we move the info from [docs.originprotocol.com/#contributing](http://docs.originprotocol.com/#contributing) to [docs.marketprotocol.io](https://docs.marketprotocol.io/) to centralize such info in a clean way?
