@@ -11,7 +11,7 @@
 - Create a 'how-to' work offline with our code @rojosnow
 - Create a Getting Started Guide @eswarasai @perfectmak @42piratas
 - Research and share updated information about SEO @pchuck
-- Regarding SEO, define what can do internally and what we will need help with @pelsasser
+- Regarding SEO, define what can be done internally and what we will need help with @pelsasser
 - Update the project main board, add info on how the labels work to the documentation, and merge `meta` and `community` repositories @42piratas
 
 ## Notes
@@ -33,16 +33,15 @@
   - Pipeline now with Continuous Deployment to S3 Buckets using Travis CI;
 - New website:
   - New website up and running;
-  - According to Phil, we still want to work to improve its performance;
+  - According to Phil, we still need to work more to improve its performance;
 - Documentation:
-  - [docs.originprotocol.com](http://docs.originprotocol.com/#contributing) was updated and now it ncludes more details on how to contribute to the project;
+  - [docs.originprotocol.com](http://docs.originprotocol.com/#contributing) was updated and now it has more details on how to contribute to the project;
   - Robert will put together a how-to on how to work offline with our code;
 - API:
   - API repository was created by Phil, with some high level info about the expected funcionalities;
   - Next week, Phil will add more details/requirements on the expected methods and structure;
 - Processes improvements:
   - Eswara, Perfect, and Ânderson will work on a "Getting Started" guide to help onboard contributors quicker;
-  - Ânderson will update the project main board;
-  - Ânderson will add info on how the labels work to the documentation;
+  - Ânderson will update the project main board, add info on how the labels work to the documentation, and merge the repositories `meta` and `community`;
 - SEO:
-  - The attendees discussed how we could better tackle SEO. Conclusion: Patrick will research and share updated info/documentation about the subject, and from there we will check what we can do internally and what we need help with. Robert mentioned he knows a good SEO professional, and will get in touch with him/her when/if necessary.
+  - The attendees discussed how we could better tackle SEO. Conclusion: Patrick will research and share information about the subject, and from there we will check what we can do internally and what we need help with. Robert mentioned he knows a good SEO professional, and will get in touch with him/her when/if necessary.
