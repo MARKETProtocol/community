@@ -12,7 +12,7 @@ In this repository, you will find listing of all meetings, notes, and events.
 
 In the *Engineering Weekly* meetings, the core engineering team, contributors, and casual followers check in to discuss the progress of the project, to call attention to particular items, to make announcements, or to seek discussion of a topic.
 
-**Everyone is welcome! [Check details here.](https://github.com/MARKETProtocol/community/blob/master/engineering-weekly.md)**
+**Everyone is welcome! [Check details here.](https://github.com/MARKETProtocol/community/blob/master/docs/engineering-weekly.md)**
 
 You can also find the [notes from previous meetings here](https://github.com/MARKETProtocol/community/tree/master/meeting-notes).
 
@@ -20,20 +20,20 @@ You can also find the [notes from previous meetings here](https://github.com/MAR
 
 Our [project board](https://github.com/orgs/MARKETProtocol/projects/1) is used to organize development tasks.
 
-The document [project management](https://github.com/MARKETProtocol/community/blob/master/project-management.md) contains helpful information about using and understanding how the project board is organized.
+The document [project management](https://github.com/MARKETProtocol/community/blob/master/docs/project-management.md) contains helpful information about using and understanding how the project board is organized.
 
 ## Standards
 
 Style guides and coding conventions
 
-* [Coding Conventions](https://github.com/MARKETProtocol/meta/blob/master/guidelines/CODING_CONVENTIONS.md)
+* [Coding Conventions](https://github.com/MARKETProtocol/meta/blob/master/docs/coding-conventions.md)
 
 ## Documentation
 
 This section contains internal technical documentation related to contributing to, building and running MARKET Protocol.
 
-* [Code of Conduct](https://github.com/MARKETProtocol/meta/blob/master/guidelines/CODE_OF_CONDUCT.md)
-* [Contribution guidelines](https://github.com/MARKETProtocol/meta/blob/master/guidelines/CONTRIBUTING.md)
+* [Code of Conduct](https://github.com/MARKETProtocol/meta/blob/master/docs/code-of-conduct.md)
+* [Contribution guidelines](https://github.com/MARKETProtocol/meta/blob/master/docs/contributing.md)
 
 NOTE: For external API documentation, see the following repository and generated documentation.
 
@@ -42,7 +42,7 @@ NOTE: For external API documentation, see the following repository and generated
 
 ## Labels
 
-Labels have been standardized for issues across all of our repositories.  If you are creating a new repository please see [labels.json](https://github.com/MARKETProtocol/meta/blob/master/config/labels.json) and use `git-labelmaker` to populate labels prior to creating new issues. 
+Labels have been standardized for issues across all of our repositories.  If you are creating a new repository please see [labels.json](https://github.com/MARKETProtocol/meta/blob/master/config/labels.json) and use `git-labelmaker` to populate labels prior to creating new issues.
 
 ## Contribute
 
