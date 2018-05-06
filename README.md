@@ -26,14 +26,14 @@ The document [project management](https://github.com/MARKETProtocol/community/bl
 
 Style guides and coding conventions
 
-* [Coding Conventions](https://github.com/MARKETProtocol/meta/blob/master/docs/coding-conventions.md)
+* [Coding Conventions](https://github.com/MARKETProtocol/community/blob/master/docs/coding-conventions.md)
 
 ## Documentation
 
 This section contains internal technical documentation related to contributing to, building and running MARKET Protocol.
 
-* [Code of Conduct](https://github.com/MARKETProtocol/meta/blob/master/docs/code-of-conduct.md)
-* [Contribution guidelines](https://github.com/MARKETProtocol/meta/blob/master/docs/contributing.md)
+* [Code of Conduct](https://github.com/MARKETProtocol/community/blob/master/docs/code-of-confuct.md)
+* [Contribution guidelines](https://github.com/MARKETProtocol/community/blob/master/docs/contributing.md)
 
 NOTE: For external API documentation, see the following repository and generated documentation.
 
