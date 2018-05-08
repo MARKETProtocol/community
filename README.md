@@ -18,9 +18,7 @@ Ready to jump in? Search for open issues in our [GitHub board](https://github.co
 
 ## How do we Work?
 
-We use a [GitHub board](https://github.com/orgs/MARKETProtocol/projects/1) to organize development tasks. [Here you can check](https://github.com/MARKETProtocol/community/blob/master/docs/project-management.md) how the project board is organized.
-
-GitHub issues labels are standardized across all of our repositories. Here you can check what each label means and how to properly use them // _link missing; w.i.p._
+We use a [GitHub board](https://github.com/orgs/MARKETProtocol/projects/1) to organize development tasks. [Here you can check](https://github.com/MARKETProtocol/community/blob/master/docs/project-management.md) how the project board is organized, and how to properly use the labels in the issues.  
 
 ## Weekly Meeting
 
