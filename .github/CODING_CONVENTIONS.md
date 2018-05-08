@@ -1,1 +1,0 @@
-../meta/guidelines/CODING_CONVENTIONS.md

@@ -1,1 +1,0 @@
-../meta/guidelines/CODE_OF_CONDUCT.md
