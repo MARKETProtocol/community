@@ -4,46 +4,26 @@
 
 MARKET Protocol has been created to provide a secure, flexible, open source foundation for decentralized trading on the Ethereum blockchain. We provide the pieces necessary to create a decentralized exchange, including the requisite clearing and collateral pool infrastructure, enabling third parties to build applications for trading.
 
-# Community
+## About Us
 
-In this repository, you will find listing of all meetings, notes, and events.
+We recommend checking out [this brief article](https://medium.com/market-protocol/market-protocol-explain-it-like-im-five-673312673b6e). Then visit [marketprotocol.io](https://www.marketprotocol.io/) and feel free to join us on [Discord](https://www.marketprotocol.io/discord), [Telegram](https://t.me/Market_Protocol_Chat), [Twitter](https://mobile.twitter.com/MarketProtocol), [Reddit](https://www.reddit.com/r/MarketProtocol/), [Medium](https://medium.com/market-protocol), and [Youtube](https://medium.com/market-protocol). You might also want to [subscribe to our newsletter](https://www.marketprotocol.io/#subscribe) to stay in the loop.
 
-## Engineering Weekly
+## Contributing
 
-In the *Engineering Weekly* meetings, the core engineering team, contributors, and casual followers check in to discuss the progress of the project, to call attention to particular items, to make announcements, or to seek discussion of a topic.
+First, please read our [Code of Conduct](https://github.com/MARKETProtocol/community/blob/master/docs/code-of-confuct.md). In the interest of fostering an open and welcoming environment, we take our code very seriously.
 
-**Everyone is welcome! [Check details here.](https://github.com/MARKETProtocol/community/blob/master/docs/engineering-weekly.md)**
+Next, review our [Contribution Guidelines](https://github.com/MARKETProtocol/community/blob/master/docs/contributing.md) and [Coding Conventions](https://github.com/MARKETProtocol/community/blob/master/docs/coding-conventions.md). And you might want to bookmark our [API Documentation](http://docs.marketprotocol.io/) as well.
 
-You can also find the [notes from previous meetings here](https://github.com/MARKETProtocol/community/tree/master/meeting-notes).
+Ready to jump in? Search for open issues in our [GitHub board](https://github.com/orgs/MARKETProtocol/projects/1), and join our [Discord Community](https://www.marketprotocol.io/discord) to get in touch with our dev staff and other contributors.
 
-## Project Board
+## How We Work
 
-Our [project board](https://github.com/orgs/MARKETProtocol/projects/1) is used to organize development tasks.
+We use a [GitHub board](https://github.com/orgs/MARKETProtocol/projects/1) to organize development tasks. [Here you can check](https://github.com/MARKETProtocol/community/blob/master/docs/project-management.md) how the project board is organized, and how to properly use labels in the issues.
 
-The document [project management](https://github.com/MARKETProtocol/community/blob/master/docs/project-management.md) contains helpful information about using and understanding how the project board is organized.
+## Weekly Meeting
 
-## Standards
+Once a week, contributors and the community get together to talk about the project. Everyone is welcome! [Check details here.](https://github.com/MARKETProtocol/community/blob/master/docs/engineering-weekly.md) And you can find the [notes from previous meetings here](https://github.com/MARKETProtocol/community/tree/master/meeting-notes).
 
-Style guides and coding conventions
+## Have a question?
 
-* [Coding Conventions](https://github.com/MARKETProtocol/community/blob/master/docs/coding-conventions.md)
-
-## Documentation
-
-This section contains internal technical documentation related to contributing to, building and running MARKET Protocol.
-
-* [Code of Conduct](https://github.com/MARKETProtocol/community/blob/master/docs/code-of-confuct.md)
-* [Contribution guidelines](https://github.com/MARKETProtocol/community/blob/master/docs/contributing.md)
-
-NOTE: For external API documentation, see the following repository and generated documentation.
-
-* [API Documentation Repository](https://github.com/MARKETProtocol/Docs)
-* [API Documentation (generated)](http://docs.marketprotocol.io/)
-
-## Labels
-
-Labels have been standardized for issues across all of our repositories.  If you are creating a new repository please see [labels.json](https://github.com/MARKETProtocol/meta/blob/master/config/labels.json) and use `git-labelmaker` to populate labels prior to creating new issues.
-
-## Contribute
-
-Join our [Discord Community](https://www.marketprotocol.io/discord) to interact with members of our dev staff and other contributors.
+Join our [Discord Community](https://www.marketprotocol.io/discord) to get in touch with our dev staff and other contributors.
