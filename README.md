@@ -16,9 +16,9 @@ Next, review our [Contribution Guidelines](https://github.com/MARKETProtocol/com
 
 Ready to jump in? Search for open issues in our [GitHub board](https://github.com/orgs/MARKETProtocol/projects/1), and join our [Discord Community](https://www.marketprotocol.io/discord) to get in touch with our dev staff and other contributors.
 
-## How do we Work?
+## How We Work
 
-We use a [GitHub board](https://github.com/orgs/MARKETProtocol/projects/1) to organize development tasks. [Here you can check](https://github.com/MARKETProtocol/community/blob/master/docs/project-management.md) how the project board is organized, and how to properly use the labels in the issues.  
+We use a [GitHub board](https://github.com/orgs/MARKETProtocol/projects/1) to organize development tasks. [Here you can check](https://github.com/MARKETProtocol/community/blob/master/docs/project-management.md) how the project board is organized, and how to properly use the labels in the issues.
 
 ## Weekly Meeting
 
