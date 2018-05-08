@@ -18,11 +18,11 @@ Ready to jump in? Search for open issues in our [GitHub board](https://github.co
 
 ## How We Work
 
-We use a [GitHub board](https://github.com/orgs/MARKETProtocol/projects/1) to organize development tasks. [Here you can check](https://github.com/MARKETProtocol/community/blob/master/docs/project-management.md) how the project board is organized, and how to properly use the labels in the issues.
+We use a [GitHub board](https://github.com/orgs/MARKETProtocol/projects/1) to organize development tasks. [Here you can check](https://github.com/MARKETProtocol/community/blob/master/docs/project-management.md) how the project board is organized, and how to properly use labels in the issues.
 
 ## Weekly Meeting
 
-Once a week, we hold the Engineering Weekly meeting. Everyone is welcome! [Check details here.](https://github.com/MARKETProtocol/community/blob/master/docs/engineering-weekly.md) And you can find the [notes from previous meetings here](https://github.com/MARKETProtocol/community/tree/master/meeting-notes).
+Once a week, contributors and the community get together to talk about the project. Everyone is welcome! [Check details here.](https://github.com/MARKETProtocol/community/blob/master/docs/engineering-weekly.md) And you can find the [notes from previous meetings here](https://github.com/MARKETProtocol/community/tree/master/meeting-notes).
 
 ## Have a question?
 
