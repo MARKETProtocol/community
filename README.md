@@ -10,11 +10,11 @@ We recommend checking out [this brief article](https://medium.com/market-protoco
 
 ## Contributing
 
-First, please read our [Code of Conduct](https://github.com/MARKETProtocol/community/blob/master/docs/code-of-confuct.md). In the interest of fostering an open and welcoming environment, we take our code very seriously.
+Want to hack on MARKET Protocol? Awesome!
 
-Next, review our [Contribution Guidelines](https://github.com/MARKETProtocol/community/blob/master/docs/contributing.md) and [Coding Conventions](https://github.com/MARKETProtocol/community/blob/master/docs/coding-conventions.md). And you might want to bookmark our [API Documentation](http://docs.marketprotocol.io/) as well.
+MARKET Protocol is an Open Source project and we welcome contributions of all sorts. There are many ways to help, from reporting issues, contributing code, and helping us improve our community.
 
-Ready to jump in? Search for open issues in our [GitHub board](https://github.com/orgs/MARKETProtocol/projects/1), and join our [Discord Community](https://www.marketprotocol.io/discord) to get in touch with our dev staff and other contributors.
+Ready to jump in? Check [docs.marketprotocol.io/#contributing](https://docs.marketprotocol.io/#contributing). 
 
 ## How We Work
 
@@ -24,6 +24,6 @@ We use a [GitHub board](https://github.com/orgs/MARKETProtocol/projects/1) to or
 
 Once a week, contributors and the community get together to talk about the project. Everyone is welcome! [Check details here.](https://github.com/MARKETProtocol/community/blob/master/docs/engineering-weekly.md) And you can find the [notes from previous meetings here](https://github.com/MARKETProtocol/community/tree/master/meeting-notes).
 
-## Have a question?
+## Questions?
 
 Join our [Discord Community](https://www.marketprotocol.io/discord) to get in touch with our dev staff and other contributors.
