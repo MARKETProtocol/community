@@ -16,14 +16,6 @@ MARKET Protocol is an Open Source project and we welcome contributions of all so
 
 Ready to jump in? Check [docs.marketprotocol.io/#contributing](https://docs.marketprotocol.io/#contributing). 
 
-## How We Work
-
-We use a [GitHub board](https://github.com/orgs/MARKETProtocol/projects/1) to organize development tasks. [Here you can check](https://github.com/MARKETProtocol/community/blob/master/docs/project-management.md) how the project board is organized, and how to properly use labels in the issues.
-
-## Weekly Meeting
-
-Once a week, contributors and the community get together to talk about the project. Everyone is welcome! [Check details here.](https://github.com/MARKETProtocol/community/blob/master/docs/engineering-weekly.md) And you can find the [notes from previous meetings here](https://github.com/MARKETProtocol/community/tree/master/meeting-notes).
-
 ## Questions?
 
 Join our [Discord Community](https://www.marketprotocol.io/discord) to get in touch with our dev staff and other contributors.
