@@ -1,4 +1,3 @@
-# Engineering Weekly cw #XX
 #### Month DD YYYY, [8:00 AM MDT](https://www.worldtimebuddy.com/?qm=1&lid=7&h=7&date=2018-5-10&sln=8-8.5)
 #### Link: https://zoom.us/j/874817645
 ## Agenda
