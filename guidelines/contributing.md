@@ -1,9 +1,7 @@
 # Contributing
 
 By participating in MARKET Protocol development, you
-agree to abide by the [code of conduct].
-
-[code of conduct]: https://github.com/MARKETProtocol/Meta/blob/master/CODE_OF_CONDUCT.md
+agree to abide by the [code of conduct](https://github.com/MARKETProtocol/community/blob/master/guidelines/code-of-confuct.md).
 
 Fork, then clone the repo:
 
@@ -13,7 +11,7 @@ Set up your machine:
 
     make install_truffle
     make install_deps
-    
+
 Make sure the tests pass:
 
     make start_console
@@ -36,7 +34,7 @@ Some things that will increase the chance that your pull request is accepted:
 * Follow our [coding conventions][coding].
 * Write a [good commit message][commit].
 
-[coding]: https://github.com/MARKETProtocol/Meta/blob/master/coding_conventions.md
+[coding]: https://github.com/MARKETProtocol/community/blob/master/guidelines/coding-conventions.md
 [commit]: http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html
 
 These guidelines were originally adapted from [Thoughtbot][fbr]
