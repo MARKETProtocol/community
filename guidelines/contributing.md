@@ -1,7 +1,7 @@
 # Contributing
 
 By participating in MARKET Protocol development, you
-agree to abide by the [code of conduct](https://github.com/MARKETProtocol/community/blob/master/guidelines/code-of-confuct.md).
+agree to abide by the [code of conduct](https://github.com/MARKETProtocol/community/blob/master/guidelines/code-of-conduct.md).
 
 Fork, then clone the repo:
 
