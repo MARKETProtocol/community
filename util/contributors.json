@@ -1,0 +1,322 @@
+{
+    "42piratas": {
+        "email": "a@42p.me",
+        "name": "\u00e2ndrsnq",
+        "repos": [
+            "MARKETProtocol",
+            "ethereum-bridge",
+            "dApp",
+            "MARKETTracker",
+            "market-api",
+            "community",
+            "MARKET.js"
+        ]
+    },
+    "ConnorChristie": {
+        "email": "christieck@msoe.edu",
+        "name": "Connor Christie",
+        "repos": [
+            "dApp"
+        ]
+    },
+    "D-Nice": {
+        "email": null,
+        "name": null,
+        "repos": [
+            "ethereum-bridge"
+        ]
+    },
+    "I3uckwheat": {
+        "email": "briggse@protonmail.com",
+        "name": "Briggs Elsperger",
+        "repos": [
+            "MARKETProtocol",
+            "dApp"
+        ]
+    },
+    "ImgBotApp": {
+        "email": null,
+        "name": "ImgBot",
+        "repos": [
+            "website"
+        ]
+    },
+    "JonnyBurger": {
+        "email": "hi@jonny.io",
+        "name": "Jonny Burger",
+        "repos": [
+            "website"
+        ]
+    },
+    "KennethAshley": {
+        "email": "ken.u.diggitt@gmail.com",
+        "name": "Kenneth Ashley",
+        "repos": [
+            "dApp"
+        ]
+    },
+    "NFhbar": {
+        "email": null,
+        "name": "Nicolas Frega",
+        "repos": [
+            "MARKETProtocol"
+        ]
+    },
+    "Smona": {
+        "email": "mason.bourgeois@gmail.com",
+        "name": "Mason Bourgeois",
+        "repos": [
+            "dApp"
+        ]
+    },
+    "StevenJNPearce": {
+        "email": null,
+        "name": null,
+        "repos": [
+            "market-api"
+        ]
+    },
+    "arkgast": {
+        "email": null,
+        "name": "Arnold Gandarillas Castillo",
+        "repos": [
+            "dApp"
+        ]
+    },
+    "arun1595": {
+        "email": "arunkumarm1995@gmail.com",
+        "name": "Arun Kumar",
+        "repos": [
+            "dApp",
+            "website"
+        ]
+    },
+    "bertani": {
+        "email": "mail@thomasbertani.it",
+        "name": "Thomas Bertani",
+        "repos": [
+            "ethereum-bridge"
+        ]
+    },
+    "bradysheridan": {
+        "email": "brady.sherid@gmail.com",
+        "name": "Brady Sheridan",
+        "repos": [
+            "website"
+        ]
+    },
+    "brentoneill": {
+        "email": null,
+        "name": "Brent O'Neill",
+        "repos": [
+            "dApp",
+            "website"
+        ]
+    },
+    "craig-iam-smith": {
+        "email": null,
+        "name": null,
+        "repos": [
+            "MARKETProtocol"
+        ]
+    },
+    "cryptomental": {
+        "email": null,
+        "name": "CryptoMental",
+        "repos": [
+            "MARKETProtocol",
+            "ethereum-bridge",
+            "dApp"
+        ]
+    },
+    "dreday966": {
+        "email": "492591061@qq.com",
+        "name": "dreday",
+        "repos": [
+            "website"
+        ]
+    },
+    "eswarasai": {
+        "email": "eswarasai.v@gmail.com",
+        "name": "Eswara Sai",
+        "repos": [
+            "dApp",
+            "website"
+        ]
+    },
+    "iamonuwa": {
+        "email": "matrix4u2002@gmail.com",
+        "name": "Onuwa Nnachi Isaac",
+        "repos": [
+            "website"
+        ]
+    },
+    "idrabenia": {
+        "email": null,
+        "name": "Ilya Drabenia",
+        "repos": [
+            "ethereum-bridge"
+        ]
+    },
+    "jintoppy": {
+        "email": "jintoppy@gmail.com",
+        "name": "Jinto Jose",
+        "repos": [
+            "website"
+        ]
+    },
+    "kfichter": {
+        "email": "kelvinfichter@gmail.com",
+        "name": "Kelvin Fichter",
+        "repos": [
+            "ethereum-bridge"
+        ]
+    },
+    "kylewu": {
+        "email": "admin@wenbinwu.com",
+        "name": "Wenbin Wu",
+        "repos": [
+            "website"
+        ]
+    },
+    "maektwain": {
+        "email": "saransh@theupscale.in",
+        "name": "Maek Twain",
+        "repos": [
+            "dApp"
+        ]
+    },
+    "marcogiglio": {
+        "email": "marcogiglio@gmail.com",
+        "name": "Marco Giglio",
+        "repos": [
+            "ethereum-bridge"
+        ]
+    },
+    "martincik": {
+        "email": "ladislav@benloop.com",
+        "name": "Ladislav Martincik",
+        "repos": [
+            "MARKETProtocol"
+        ]
+    },
+    "nepalbitcoin": {
+        "email": null,
+        "name": null,
+        "repos": [
+            "ethereum-bridge"
+        ]
+    },
+    "nitinrgupta": {
+        "email": "nitinramachandragupta@gmail.com",
+        "name": "Nitin R Gupta",
+        "repos": [
+            "dApp",
+            "website"
+        ]
+    },
+    "nya1": {
+        "email": null,
+        "name": null,
+        "repos": [
+            "ethereum-bridge"
+        ]
+    },
+    "pchuck": {
+        "email": null,
+        "name": "patrick charles",
+        "repos": [
+            "MARKETProtocol",
+            "dApp",
+            "meta",
+            "website",
+            "community"
+        ]
+    },
+    "pelsasser": {
+        "email": "phil@marketprotocol.io",
+        "name": "Phil Elsasser",
+        "repos": [
+            "MARKETProtocol",
+            "ethereum-bridge",
+            "dApp",
+            "MARKETTracker",
+            "meta",
+            "website",
+            "market-api",
+            "community",
+            "MARKET.js"
+        ]
+    },
+    "perfectmak": {
+        "email": "damiperfect@gmail.com",
+        "name": "Perfect Makanju",
+        "repos": [
+            "MARKETProtocol",
+            "ethereum-bridge",
+            "dApp",
+            "website"
+        ]
+    },
+    "pfilippi24": {
+        "email": null,
+        "name": "Pascal",
+        "repos": [
+            "dApp"
+        ]
+    },
+    "poffdeluxe": {
+        "email": "poffdeluxe@gmail.com",
+        "name": "Poff Poffenberger",
+        "repos": [
+            "dApp"
+        ]
+    },
+    "rojosnow": {
+        "email": "robert@jordanjr.com",
+        "name": "Robert Jordan",
+        "repos": [
+            "MARKETProtocol",
+            "dApp",
+            "website",
+            "market-api",
+            "MARKET.js"
+        ]
+    },
+    "row2k": {
+        "email": "rowlandrzhang@gmail.com",
+        "name": "Rowland Zhang",
+        "repos": [
+            "website"
+        ]
+    },
+    "saralarambhapuri": {
+        "email": "sarala.speed@gmail.com",
+        "name": "Sarala Rambhapuri",
+        "repos": [
+            "dApp"
+        ]
+    },
+    "tschoffelen": {
+        "email": "thomas@includable.com",
+        "name": "Thomas Schoffelen",
+        "repos": [
+            "website"
+        ]
+    },
+    "vikaskyadav": {
+        "email": "vikasharry03@gmail.com",
+        "name": "Vikas Kumar Yadav",
+        "repos": [
+            "dApp"
+        ]
+    },
+    "zoek1": {
+        "email": "os.aioria@gmail.com",
+        "name": "Miguel Angel Gordi\u00e1n",
+        "repos": [
+            "dApp",
+            "website"
+        ]
+    }
+}
