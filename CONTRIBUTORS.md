@@ -1,42 +1,42 @@
 # Contributors 
-@pelsasser contributed to MARKETProtocol, ethereum-bridge, dApp, MARKETTracker, meta, website, market-api, community, MARKET.js 
-@cryptomental contributed to MARKETProtocol, ethereum-bridge, dApp 
-@perfectmak contributed to MARKETProtocol, ethereum-bridge, dApp, website 
-@craig-iam-smith contributed to MARKETProtocol 
-@I3uckwheat contributed to MARKETProtocol, dApp 
-@pchuck contributed to MARKETProtocol, dApp, meta, website, community 
-@martincik contributed to MARKETProtocol 
-@NFhbar contributed to MARKETProtocol 
-@rojosnow contributed to MARKETProtocol, dApp, website, market-api, MARKET.js 
-@42piratas contributed to MARKETProtocol, ethereum-bridge, dApp, MARKETTracker, market-api, community, MARKET.js 
-@nya1 contributed to ethereum-bridge 
-@D-Nice contributed to ethereum-bridge 
-@bertani contributed to ethereum-bridge 
-@kfichter contributed to ethereum-bridge 
-@marcogiglio contributed to ethereum-bridge 
-@idrabenia contributed to ethereum-bridge 
-@nepalbitcoin contributed to ethereum-bridge 
-@eswarasai contributed to dApp, website 
-@KennethAshley contributed to dApp 
-@poffdeluxe contributed to dApp 
-@nitinrgupta contributed to dApp, website 
-@arkgast contributed to dApp 
-@maektwain contributed to dApp 
-@ConnorChristie contributed to dApp 
-@zoek1 contributed to dApp, website 
-@Smona contributed to dApp 
-@arun1595 contributed to dApp, website 
-@pfilippi24 contributed to dApp 
-@vikaskyadav contributed to dApp 
-@saralarambhapuri contributed to dApp 
-@brentoneill contributed to dApp, website 
-@jintoppy contributed to website 
-@dreday966 contributed to website 
-@kylewu contributed to website 
-@JonnyBurger contributed to website 
-@bradysheridan contributed to website 
-@ImgBotApp contributed to website 
-@iamonuwa contributed to website 
-@row2k contributed to website 
-@tschoffelen contributed to website 
-@StevenJNPearce contributed to market-api 
+@pelsasser contributed to MARKETProtocol, ethereum-bridge, dApp, MARKETTracker, meta, website, market-api, community, MARKET.js;   
+@cryptomental contributed to MARKETProtocol, ethereum-bridge, dApp;   
+@perfectmak contributed to MARKETProtocol, ethereum-bridge, dApp, website;   
+@craig-iam-smith contributed to MARKETProtocol;   
+@I3uckwheat contributed to MARKETProtocol, dApp;   
+@pchuck contributed to MARKETProtocol, dApp, meta, website, community;   
+@martincik contributed to MARKETProtocol;   
+@NFhbar contributed to MARKETProtocol;   
+@rojosnow contributed to MARKETProtocol, dApp, website, market-api, MARKET.js;   
+@42piratas contributed to MARKETProtocol, ethereum-bridge, dApp, MARKETTracker, market-api, community, MARKET.js;   
+@nya1 contributed to ethereum-bridge;   
+@D-Nice contributed to ethereum-bridge;   
+@bertani contributed to ethereum-bridge;   
+@kfichter contributed to ethereum-bridge;   
+@marcogiglio contributed to ethereum-bridge;   
+@idrabenia contributed to ethereum-bridge;   
+@nepalbitcoin contributed to ethereum-bridge;   
+@eswarasai contributed to dApp, website;   
+@KennethAshley contributed to dApp;   
+@poffdeluxe contributed to dApp;   
+@nitinrgupta contributed to dApp, website;   
+@arkgast contributed to dApp;   
+@maektwain contributed to dApp;   
+@ConnorChristie contributed to dApp;   
+@zoek1 contributed to dApp, website;   
+@Smona contributed to dApp;   
+@arun1595 contributed to dApp, website;   
+@pfilippi24 contributed to dApp;   
+@vikaskyadav contributed to dApp;   
+@saralarambhapuri contributed to dApp;   
+@brentoneill contributed to dApp, website;   
+@jintoppy contributed to website;   
+@dreday966 contributed to website;   
+@kylewu contributed to website;   
+@JonnyBurger contributed to website;   
+@bradysheridan contributed to website;   
+@ImgBotApp contributed to website;   
+@iamonuwa contributed to website;   
+@row2k contributed to website;   
+@tschoffelen contributed to website;   
+@StevenJNPearce contributed to market-api;   
