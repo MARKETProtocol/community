@@ -1,6 +1,6 @@
 # Engineering Weekly cw #22
 ## May 31 2018, [8:00 AM MDT](https://www.worldtimebuddy.com/?qm=1&lid=7&h=7&date=2018-5-31&sln=8-8.5)
-### [Agenda](https://github.com/MARKETProtocol/community/issues/44)
+### [Agenda](https://github.com/MARKETProtocol/community/issues/46)
 ### [Recording](https://www.youtube.com/watch?v=MXzAj-Wu0-Y)
 ### Attendees
 @eswarasai @pchuck @ffox @isotopescc @lakikentaki @nofxsnap @rojosnow @pelsasser @casperbjohansen
