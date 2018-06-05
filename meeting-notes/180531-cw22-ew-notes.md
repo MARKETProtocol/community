@@ -10,7 +10,7 @@
 - John Siladie @nofxsnap SmartCapital's CTO, joined the meeting o/
 - Lazar Jovanovic @lakikentaki our Community Manager, joined the meeting o/
 - Casper Johansen @casperbjohansen Partner from Spartan Group, joined the meeting o/
-- Also @ffox @isotopescc and joined the meeting o/
+- @ffox and @isotopescc joined the meeting o/
 - Our list of contributors already reached 40 names o/
 - Contributor Guidelines added in MARKET.js and Website by @eswarasai
 - Large increase in our SEO ranking. We are in the top10 for all target terms @pchuck
