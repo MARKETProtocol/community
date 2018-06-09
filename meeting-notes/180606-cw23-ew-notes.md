@@ -3,7 +3,7 @@
 ### [Agenda](https://github.com/MARKETProtocol/community/issues/50)
 ### [Recording](https://www.youtube.com/watch?v=rKf66mJlKuo)
 ### Attendees
-Nic @casperbjohansen @pelsasser @pchuck @eswarasai @lakikentaki @42piratas
+Nic, @casperbjohansen @pelsasser @pchuck @eswarasai @lakikentaki @42piratas
 
 ## Highlights
 
