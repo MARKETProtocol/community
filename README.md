@@ -1,12 +1,16 @@
 <img src="https://github.com/MARKETProtocol/dApp/blob/master/src/img/MARKETProtocol-Light.png?raw=true" align="middle">
 
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/MARKETProtocol/dApp/issues)
 
 MARKET Protocol has been created to provide a secure, flexible, open source foundation for decentralized trading on the Ethereum blockchain. We provide the pieces necessary to create a decentralized exchange, including the requisite clearing and collateral pool infrastructure, enabling third parties to build applications for trading.
 
 ## About Us
 
 We recommend checking out [this brief article](https://medium.com/market-protocol/market-protocol-explain-it-like-im-five-673312673b6e). Then visit [marketprotocol.io](https://marketprotocol.io/) and feel free to join us on [Discord](https://marketprotocol.io/discord), [Telegram](https://t.me/Market_Protocol_Chat), [Twitter](https://mobile.twitter.com/MarketProtocol), [Reddit](https://www.reddit.com/r/MarketProtocol/), [Medium](https://medium.com/market-protocol), and [Youtube](https://medium.com/market-protocol). You might also want to [subscribe to our newsletter](https://marketprotocol.io/#subscribe) to stay in the loop.
+
+## Engineering Weekly
+
+We have a weekly, all-hands meeting every Thursday. Check [details here](https://github.com/MARKETProtocol/community/blob/master/docs/engineering-weekly.md).
 
 ## Contributing
 
