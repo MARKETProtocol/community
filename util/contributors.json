@@ -1,5 +1,6 @@
 {
     "42piratas": {
+        "avatar": "https://avatars1.githubusercontent.com/u/18232600?v=4",
         "email": "a@42p.me",
         "name": "\u00e2ndrsnq",
         "repos": [
@@ -13,13 +14,16 @@
         ]
     },
     "ConnorChristie": {
+        "avatar": "https://avatars3.githubusercontent.com/u/1206980?v=4",
         "email": "christieck@msoe.edu",
         "name": "Connor Christie",
         "repos": [
-            "dApp"
+            "dApp",
+            "types"
         ]
     },
     "D-Nice": {
+        "avatar": "https://avatars1.githubusercontent.com/u/2888248?v=4",
         "email": null,
         "name": null,
         "repos": [
@@ -27,6 +31,7 @@
         ]
     },
     "I3uckwheat": {
+        "avatar": "https://avatars0.githubusercontent.com/u/4411701?v=4",
         "email": "briggse@protonmail.com",
         "name": "Briggs Elsperger",
         "repos": [
@@ -35,13 +40,15 @@
         ]
     },
     "ImgBotApp": {
-        "email": null,
+        "avatar": "https://avatars1.githubusercontent.com/u/31427850?v=4",
+        "email": "ImgBotHelp@gmail.com",
         "name": "ImgBot",
         "repos": [
             "website"
         ]
     },
     "JonnyBurger": {
+        "avatar": "https://avatars2.githubusercontent.com/u/1629785?v=4",
         "email": "hi@jonny.io",
         "name": "Jonny Burger",
         "repos": [
@@ -49,20 +56,16 @@
         ]
     },
     "KennethAshley": {
+        "avatar": "https://avatars3.githubusercontent.com/u/1138619?v=4",
         "email": "ken.u.diggitt@gmail.com",
         "name": "Kenneth Ashley",
         "repos": [
-            "dApp"
-        ]
-    },
-    "NFhbar": {
-        "email": null,
-        "name": "Nicolas Frega",
-        "repos": [
-            "MARKETProtocol"
+            "dApp",
+            "website"
         ]
     },
     "Smona": {
+        "avatar": "https://avatars1.githubusercontent.com/u/7091399?v=4",
         "email": "mason.bourgeois@gmail.com",
         "name": "Mason Bourgeois",
         "repos": [
@@ -70,13 +73,16 @@
         ]
     },
     "StevenJNPearce": {
+        "avatar": "https://avatars3.githubusercontent.com/u/36509712?v=4",
         "email": null,
         "name": null,
         "repos": [
+            "website",
             "market-api"
         ]
     },
     "arkgast": {
+        "avatar": "https://avatars0.githubusercontent.com/u/5279327?v=4",
         "email": null,
         "name": "Arnold Gandarillas Castillo",
         "repos": [
@@ -84,14 +90,27 @@
         ]
     },
     "arun1595": {
+        "avatar": "https://avatars2.githubusercontent.com/u/7039523?v=4",
         "email": "arunkumarm1995@gmail.com",
         "name": "Arun Kumar",
         "repos": [
+            "MARKETProtocol",
             "dApp",
+            "website",
+            "MARKET.js",
+            "types"
+        ]
+    },
+    "bakaoh": {
+        "avatar": "https://avatars1.githubusercontent.com/u/4920000?v=4",
+        "email": null,
+        "name": null,
+        "repos": [
             "website"
         ]
     },
     "bertani": {
+        "avatar": "https://avatars1.githubusercontent.com/u/239297?v=4",
         "email": "mail@thomasbertani.it",
         "name": "Thomas Bertani",
         "repos": [
@@ -99,6 +118,7 @@
         ]
     },
     "bradysheridan": {
+        "avatar": "https://avatars1.githubusercontent.com/u/12404896?v=4",
         "email": "brady.sherid@gmail.com",
         "name": "Brady Sheridan",
         "repos": [
@@ -106,6 +126,7 @@
         ]
     },
     "brentoneill": {
+        "avatar": "https://avatars3.githubusercontent.com/u/8314590?v=4",
         "email": null,
         "name": "Brent O'Neill",
         "repos": [
@@ -114,6 +135,7 @@
         ]
     },
     "craig-iam-smith": {
+        "avatar": "https://avatars1.githubusercontent.com/u/27712984?v=4",
         "email": null,
         "name": null,
         "repos": [
@@ -121,15 +143,26 @@
         ]
     },
     "cryptomental": {
+        "avatar": "https://avatars0.githubusercontent.com/u/20819151?v=4",
         "email": null,
         "name": "CryptoMental",
         "repos": [
             "MARKETProtocol",
             "ethereum-bridge",
+            "dApp",
+            "MARKET.js"
+        ]
+    },
+    "dilatebrave": {
+        "avatar": "https://avatars0.githubusercontent.com/u/39254739?v=4",
+        "email": null,
+        "name": null,
+        "repos": [
             "dApp"
         ]
     },
     "dreday966": {
+        "avatar": "https://avatars0.githubusercontent.com/u/9654172?v=4",
         "email": "492591061@qq.com",
         "name": "dreday",
         "repos": [
@@ -137,42 +170,59 @@
         ]
     },
     "eswarasai": {
+        "avatar": "https://avatars2.githubusercontent.com/u/5172086?v=4",
         "email": "eswarasai.v@gmail.com",
         "name": "Eswara Sai",
+        "repos": [
+            "dApp",
+            "website",
+            "MARKET.js",
+            "types"
+        ]
+    },
+    "hbeckeri": {
+        "avatar": "https://avatars2.githubusercontent.com/u/8557965?v=4",
+        "email": "hbeckerich@torchlite.com",
+        "name": "Harrison Beckerich",
+        "repos": [
+            "website"
+        ]
+    },
+    "iamonuwa": {
+        "avatar": "https://avatars1.githubusercontent.com/u/6551094?v=4",
+        "email": "matrix4u2002@gmail.com",
+        "name": "Onuwa Nnachi Isaac",
         "repos": [
             "dApp",
             "website"
         ]
     },
-    "iamonuwa": {
-        "email": "matrix4u2002@gmail.com",
-        "name": "Onuwa Nnachi Isaac",
-        "repos": [
-            "website"
-        ]
-    },
     "idrabenia": {
+        "avatar": "https://avatars2.githubusercontent.com/u/1108467?v=4",
         "email": null,
         "name": "Ilya Drabenia",
         "repos": [
             "ethereum-bridge"
         ]
     },
+    "j10sanders": {
+        "avatar": "https://avatars3.githubusercontent.com/u/11084414?v=4",
+        "email": null,
+        "name": "Jonathan Sanders",
+        "repos": [
+            "dApp"
+        ]
+    },
     "jintoppy": {
+        "avatar": "https://avatars3.githubusercontent.com/u/3390198?v=4",
         "email": "jintoppy@gmail.com",
         "name": "Jinto Jose",
         "repos": [
             "website"
         ]
     },
-    "kfichter": {
-        "email": "kelvinfichter@gmail.com",
-        "name": "Kelvin Fichter",
-        "repos": [
-            "ethereum-bridge"
-        ]
-    },
     "kylewu": {
+        "avatar": "https://avatars0.githubusercontent.com/u/180198?v=4",
         "email": "admin@wenbinwu.com",
         "name": "Wenbin Wu",
         "repos": [
@@ -180,6 +230,7 @@
         ]
     },
     "maektwain": {
+        "avatar": "https://avatars3.githubusercontent.com/u/8274610?v=4",
         "email": "saransh@theupscale.in",
         "name": "Maek Twain",
         "repos": [
@@ -187,6 +238,7 @@
         ]
     },
     "marcogiglio": {
+        "avatar": "https://avatars0.githubusercontent.com/u/726667?v=4",
         "email": "marcogiglio@gmail.com",
         "name": "Marco Giglio",
         "repos": [
@@ -194,6 +246,7 @@
         ]
     },
     "martincik": {
+        "avatar": "https://avatars1.githubusercontent.com/u/2183?v=4",
         "email": "ladislav@benloop.com",
         "name": "Ladislav Martincik",
         "repos": [
@@ -201,6 +254,7 @@
         ]
     },
     "nepalbitcoin": {
+        "avatar": "https://avatars2.githubusercontent.com/u/13423662?v=4",
         "email": null,
         "name": null,
         "repos": [
@@ -208,6 +262,7 @@
         ]
     },
     "nitinrgupta": {
+        "avatar": "https://avatars0.githubusercontent.com/u/4952395?v=4",
         "email": "nitinramachandragupta@gmail.com",
         "name": "Nitin R Gupta",
         "repos": [
@@ -216,13 +271,23 @@
         ]
     },
     "nya1": {
+        "avatar": "https://avatars1.githubusercontent.com/u/16636743?v=4",
         "email": null,
         "name": null,
         "repos": [
             "ethereum-bridge"
         ]
     },
+    "palevoo": {
+        "avatar": "https://avatars3.githubusercontent.com/u/21197100?v=4",
+        "email": null,
+        "name": "Nikita Kudryavtsev",
+        "repos": [
+            "website"
+        ]
+    },
     "pchuck": {
+        "avatar": "https://avatars0.githubusercontent.com/u/1089926?v=4",
         "email": null,
         "name": "patrick charles",
         "repos": [
@@ -234,6 +299,7 @@
         ]
     },
     "pelsasser": {
+        "avatar": "https://avatars1.githubusercontent.com/u/15096737?v=4",
         "email": "phil@marketprotocol.io",
         "name": "Phil Elsasser",
         "repos": [
@@ -245,10 +311,12 @@
             "website",
             "market-api",
             "community",
-            "MARKET.js"
+            "MARKET.js",
+            "types"
         ]
     },
     "perfectmak": {
+        "avatar": "https://avatars3.githubusercontent.com/u/3120013?v=4",
         "email": "damiperfect@gmail.com",
         "name": "Perfect Makanju",
         "repos": [
@@ -259,6 +327,7 @@
         ]
     },
     "pfilippi24": {
+        "avatar": "https://avatars3.githubusercontent.com/u/4476695?v=4",
         "email": null,
         "name": "Pascal",
         "repos": [
@@ -266,6 +335,7 @@
         ]
     },
     "poffdeluxe": {
+        "avatar": "https://avatars0.githubusercontent.com/u/766596?v=4",
         "email": "poffdeluxe@gmail.com",
         "name": "Poff Poffenberger",
         "repos": [
@@ -273,6 +343,7 @@
         ]
     },
     "rojosnow": {
+        "avatar": "https://avatars2.githubusercontent.com/u/778262?v=4",
         "email": "robert@jordanjr.com",
         "name": "Robert Jordan",
         "repos": [
@@ -284,6 +355,7 @@
         ]
     },
     "row2k": {
+        "avatar": "https://avatars0.githubusercontent.com/u/16962433?v=4",
         "email": "rowlandrzhang@gmail.com",
         "name": "Rowland Zhang",
         "repos": [
@@ -291,13 +363,23 @@
         ]
     },
     "saralarambhapuri": {
+        "avatar": "https://avatars3.githubusercontent.com/u/4161839?v=4",
         "email": "sarala.speed@gmail.com",
         "name": "Sarala Rambhapuri",
         "repos": [
             "dApp"
         ]
     },
+    "shamardy": {
+        "avatar": "https://avatars0.githubusercontent.com/u/39480341?v=4",
+        "email": null,
+        "name": null,
+        "repos": [
+            "website"
+        ]
+    },
     "tschoffelen": {
+        "avatar": "https://avatars3.githubusercontent.com/u/666220?v=4",
         "email": "thomas@includable.com",
         "name": "Thomas Schoffelen",
         "repos": [
@@ -305,6 +387,7 @@
         ]
     },
     "vikaskyadav": {
+        "avatar": "https://avatars1.githubusercontent.com/u/12607959?v=4",
         "email": "vikasharry03@gmail.com",
         "name": "Vikas Kumar Yadav",
         "repos": [
@@ -312,6 +395,7 @@
         ]
     },
     "zoek1": {
+        "avatar": "https://avatars1.githubusercontent.com/u/660973?v=4",
         "email": "os.aioria@gmail.com",
         "name": "Miguel Angel Gordi\u00e1n",
         "repos": [
