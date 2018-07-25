@@ -6,3 +6,4 @@
 - You should only be the `Asignee` of one PR at a time, so we can move things forward as quickly as possible.
 - The presence of an `Asignee` means the code is being actively reviewed, and other's should avoid reviewing or merging.
 - Merging of PRs is always a priority, it will assist in less conflicts, rebasing, and get other dependencies unblocked faster.
+- Goal is to accept (and merge) or request changes from any PR within one business (not weekend) day. 
