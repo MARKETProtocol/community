@@ -5,9 +5,9 @@
 # Project Management
 
 ## Project Board
-Issues and pull requests across all MARKET Protocol repositories are managed from a central [organization-wide MARKET Protocol project board](https://github.com/orgs/MARKETProtocol/projects/1).
+Issues and pull requests across all MARKET Protocol repositories are managed from a central [organization-wide MARKET Protocol project board](https://app.zenhub.com/workspace/o/marketprotocol/market.js/boards?repos=140627375,128025988,130496585,117898415,119072718,116695875,130494562,131598556,108304540,127038994,141709662,135627327,129016888).
 
-Project boards help organize and prioritize work. Learn more about [github project boards](https://help.github.com/articles/about-project-boards/).
+Project boards help organize and prioritize work. Learn more about [ZenHub project boards](https://help.zenhub.com/support/solutions/43000042875).
 
 ### Column Descriptions
 
