@@ -57,7 +57,7 @@
     },
     "ImgBotApp": {
         "avatar": "https://avatars1.githubusercontent.com/u/31427850?v=4",
-        "email": "ImgBotHelp@gmail.com",
+        "email": "help@imgbot.net",
         "name": "ImgBot",
         "repos": [
             "website"
@@ -257,7 +257,7 @@
     },
     "hbeckeri": {
         "avatar": "https://avatars2.githubusercontent.com/u/8557965?v=4",
-        "email": "hbeckerich@torchlite.com",
+        "email": "harrison@beckerich.org",
         "name": "Harrison Beckerich",
         "repos": [
             "website"
@@ -347,7 +347,7 @@
     },
     "marcogiglio": {
         "avatar": "https://avatars0.githubusercontent.com/u/726667?v=4",
-        "email": "marcogiglio@gmail.com",
+        "email": null,
         "name": "Marco Giglio",
         "repos": [
             "ethereum-bridge"
@@ -368,6 +368,14 @@
         "repos": [
             "dApp",
             "MARKET.js"
+        ]
+    },
+    "mul53": {
+        "avatar": "https://avatars0.githubusercontent.com/u/19148531?v=4",
+        "email": null,
+        "name": null,
+        "repos": [
+            "website"
         ]
     },
     "nemaniarjun": {
