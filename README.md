@@ -1,4 +1,4 @@
-<img src="https://github.com/MARKETProtocol/dApp/blob/master/src/img/MARKETProtocol-Light.png?raw=true" align="middle">
+<img src="https://github.com/MARKETProtocol/website/blob/develop/src/assets/images/MARKETProtocol-Light.png?raw=true" align="middle">
 
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/MARKETProtocol/dApp/issues)
 
